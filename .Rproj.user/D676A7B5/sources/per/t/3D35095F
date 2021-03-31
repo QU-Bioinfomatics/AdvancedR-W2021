@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616993869986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3974061657",
+    "id" : "3D35095F",
+    "lastKnownWriteTime" : 1617121791,
+    "last_content_update" : 1617121792013,
+    "path" : "E:/Ticks/Queens_bioinformatics_club/2021_03_31_webinar_APaulson/scripts/dada2_tutorial.R",
+    "project_path" : "scripts/dada2_tutorial.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
